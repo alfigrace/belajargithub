@@ -2,3 +2,4 @@ CIAO
 pembaruan deskripsi
 
 squash 1
+squash 2
